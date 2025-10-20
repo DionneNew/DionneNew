@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+WIP... I will definitely add more stuff here soon
+
 <!--
 **DionneNew/DionneNew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
